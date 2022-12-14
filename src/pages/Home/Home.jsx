@@ -1,5 +1,6 @@
 import React from 'react';
 import { SlCallEnd } from 'react-icons/sl';
+
 import css from 'pages/Home/Home.module.css';
 
 const Home = () => (
