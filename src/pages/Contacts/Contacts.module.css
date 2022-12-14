@@ -4,3 +4,9 @@
 .title {
   font-size: 30px;
 }
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,3 +1,21 @@
 .wrapper {
-  padding: 0px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.username {
+  font-weight: 700;
+}
+
+.button {
+  display: inline-block;
+
+  padding: 5px;
+  font-size: 13px;
+  cursor: pointer;
+  width: 100px;
+  box-shadow: 0px 10px 20px -10px rgba(48, 48, 48, 0.75);
+  border-radius: 8px;
+  border: 1px solid darkgray;
 }
